@@ -1,7 +1,7 @@
-# Makefile for MCGPULite_v1.5
+# Makefile for MCGPU_v1.5
 .SUFFIXES: .cu .o
 
-PROG = MCGPULite_v1.5.x
+PROG = MCGPU_v1.5.x
 
 SHELL = /bin/sh
 RM = /bin/rm -vf
